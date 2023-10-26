@@ -3,7 +3,7 @@
 ![](https://github.com/PokaInc/pr-template-action/workflows/Tests/badge.svg)
 
 A Github Action that comments on PR with a given markdown template/checklist based on the branch name. You can have separate checklist for bugfixes, features and releases.
-1
+1222
 
 ## Usage
 
